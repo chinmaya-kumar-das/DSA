@@ -1,5 +1,7 @@
 import java.util.*;
 
+import concepts.Arrays;
+
 public class reverseArr {
     public static int[] reverse(int arr[]) {
         int newArr[] = new int[arr.length];
